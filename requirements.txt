@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+motor
+apify-client
+httpx
+python-dotenv
